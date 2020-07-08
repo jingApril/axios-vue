@@ -1,5 +1,10 @@
 # axios-vue
 
+## 此项目主要是练习axios 在vue项目中的各种使用方式
+    1. axios是什么
+    2. axios是使用
+    3. axios的封装
+
 ## Project setup
 ```
 npm install
@@ -20,5 +25,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
